@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity implements NotesRecyclerAdap
 
         //NoteDatabase myDataBase = NoteDatabase.create()
         // 0913788@hr.nl
+        // mijn email: 0965671@hr.nl
 
 
 
